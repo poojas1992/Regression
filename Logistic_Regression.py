@@ -12,7 +12,7 @@ import numpy as np
 
 
 #import dataset using pandas
-adult_data = pd.read_csv("C:/Users/hp/Documents/Northeastern University/Predictive_Analytics_ALY6020/Week_5/Assignment/adult.csv")
+adult_data = pd.read_csv()
 adult_data.head()
 
 

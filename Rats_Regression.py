@@ -10,7 +10,7 @@ import pandas as pd
 # In[363]:
 
 
-rats_data = pd.read_csv("C:/Users/hp/Documents/Northeastern University/Predictive_Analytics_ALY6020/Week_5/Assignment/rats.csv")
+rats_data = pd.read_csv()
 rats_data.head()
 
 
